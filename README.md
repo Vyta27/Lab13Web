@@ -85,7 +85,8 @@ $total_page = ceil($total_data / $per_page);
 $keyword = isset($_GET['keyword']) ? $_GET['keyword'] : '';
 ```
 - Jika user mengetik `iphone`, maka : `$keyword = "iphone"`
- SS
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/7fbff970-d9b2-43aa-af66-6aa05e751712" />
 
 ## LANGKAH 3
 - Filter Data Menggunakan WHERE dan LIKE
