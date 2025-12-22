@@ -97,7 +97,7 @@ $sql = "SELECT * FROM data_barang
         LIMIT $per_page OFFSET $offset";
 ```
 
-SS
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/ac713ac6-4f98-4bac-ba1d-8cd2b052f291" />
 
 ## LANGKAH 4
 - Menyesuaikan Pagination dengan Hasil Pencarian
