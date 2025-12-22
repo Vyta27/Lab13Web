@@ -57,7 +57,11 @@ $sql_total = "SELECT COUNT(*) AS total FROM data_barang";
 $total_page = ceil($total_data / $per_page);
 ```
 
-SS
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/11385104-1f3c-4afc-9386-11842f0622ba" />
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/191a6909-fbf2-42e1-9b97-5824ea4ef09d" />
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/5491bb6f-f684-4ccf-a220-e176ca22d10e" />
 
 # PRAKTIKUM 14 (MEembuat Pencarian Data)
 
